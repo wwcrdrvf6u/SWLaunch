@@ -3,7 +3,8 @@ name: Generate img.txt
 on:
   push:
     branches:
-      - master
+      - main
+  workflow_dispatch: # 手动触发
 
 jobs:
   generate-img-txt:
