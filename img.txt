@@ -1,6 +1,6 @@
-fox_AN.png
-screenshot_2026-02-23_08-04-18.png
-AD_cd.png
-screenshot_2026-02-23_08-03-59.png
-screenshot_2026-02-23_08-04-29.png
-CI1.png
+fox_A.webp
+fox_AN.webp
+fox_NY.webp
+fox_W.webp
+AD_cd.webp
+CI1.webp
